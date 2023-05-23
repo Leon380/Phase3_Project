@@ -1,7 +1,7 @@
 # SYRIATEL CUSTOMER CHURN.
 Auther: Leonard Rotich
 
-
+![cover](image/cover.jfif)
 ## Project overview
 
 Churn is a major problem for SyriaTel Company, as it can result in lost revenue and reduced profitability. In this project, I aim to develop a machine learning algorithms to build a model to predict and identify customers who are at risk of churning, and provide recommendations to reduce churn rates. In this project, I am going to use SytiaTel Customer Churn dataset which can be found [here](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset).<br>
